@@ -1,0 +1,515 @@
+Player Name,Jersey Number,Specific Position,Club Name,Birth Date,Age,Height,Market Value (Euros),Citizenships,National Team Caps,Weight (kg)
+Bernd Leno,1,Goalkeeper,Arsenal FC ,3/4/92,27,"1,89 m",30000000,Germany,6,83
+Hector Bellerin,2,Right-Back,Arsenal FC ,3/19/95,24,"1,78 m",40000000,Spain,3,74
+Kevin De Bruyne,17,Attacking Midfield,Manchester City ,6/28/91,28,"1,81 m",130000000,Belgium,72,70
+Virgil van Dijk,4,Centre-Back,Liverpool FC ,7/8/91,28,"1,93 m",100000000,Netherlands,32,92
+Sokratis,5,Centre-Back,Arsenal FC ,6/9/88,31,"1,86 m",20000000,Greece,90,85
+Mesut Ozil,10,Attacking Midfield,Arsenal FC ,10/15/88,31,"1,80 m",25000000,Germany,92,76
+Mohamed Salah,11,Right Winger,Liverpool FC ,6/15/92,27,"1,75 m",150000000,Egypt,67,71
+Granit Xhaka,34,Defensive Midfield,Arsenal FC ,9/27/92,27,"1,86 m",40000000,Switzerland,80,82
+Henrikh Mkhitaryan,7,Attacking Midfield,Arsenal FC ,1/21/89,30,"1,77 m",25000000,Armenia,86,75
+Harry Kane,10,Centre-Forward,Tottenham Hotspur ,7/28/93,26,"1,88 m",150000000,England,43,89
+Alisson,1,Goalkeeper,Liverpool FC ,10/2/92,27,"1,91 m",80000000,Brazil,42,91
+David de Gea,1,Goalkeeper,Manchester United ,11/7/90,29,"1,89 m",65000000,Spain,41,82
+N'Golo Kante,7,Central Midfield,Chelsea FC ,3/29/91,28,"1,68 m",100000000,France,38,72
+Alexandre Lacazette,9,Centre-Forward,Arsenal FC ,5/28/91,28,"1,76 m",70000000,France,16,73
+Pierre-Emerick Aubameyang,14,Centre-Forward,Arsenal FC ,6/18/89,30,"1,87 m",70000000,Gabon,51,80
+Sergio Aguero,10,Centre-Forward,Manchester City ,6/2/88,31,"1,73 m",65000000,Argentina  Spain,96,70
+Nathan Ake,5,Centre-Back,AFC Bournemouth ,2/18/95,24,"1,80 m",35000000,Netherlands  Cote d'Ivoire,11,75
+Paul Pogba,6,Central Midfield,Manchester United ,3/15/93,26,"1,91 m",100000000,France,69,84
+Ederson,31,Goalkeeper,Manchester City ,8/17/93,26,"1,88 m",70000000,Brazil  Portugal,7,86
+Raheem Sterling,7,Left Winger,Manchester City ,12/8/94,24,"1,70 m",140000000,England  Jamaica,55,69
+Christian Eriksen,23,Attacking Midfield,Tottenham Hotspur ,2/14/92,27,"1,82 m",100000000,Denmark,93,76
+Ryan Fraser,24,Left Winger,AFC Bournemouth ,2/24/94,25,"1,63 m",30000000,Scotland,22,30
+Hugo Lloris,1,Goalkeeper,Tottenham Hotspur ,12/26/86,32,"1,88 m",25000000,France,114,82
+Callum Wilson,13,Centre-Forward,AFC Bournemouth ,2/27/92,27,"1,80 m",30000000,England  Ireland,4,66
+David Silva,21,Attacking Midfield,Manchester City ,1/8/86,33,"1,70 m",20000000,Spain,125,67
+Mathew Ryan,1,Goalkeeper,Brighton & Hove Albion ,4/8/92,27,"1,84 m",10000000,Australia  England,58,82
+Sadio Mane,10,Left Winger,Liverpool FC ,4/10/92,27,"1,74 m",120000000,Senegal,61,69
+Aymeric Laporte,14,Centre-Back,Manchester City ,5/27/94,25,"1,91 m",75000000,Spain,12,85
+Bernardo Silva,20,Right Winger,Manchester City ,8/10/94,25,"1,73 m",100000000,Portugal,41,64
+Heung-min Son,7,Left Winger,Tottenham Hotspur ,7/8/92,27,"1,84 m",80000000,"Korea, South",87,78
+Fernandinho,25,Defensive Midfield,Manchester City ,5/4/85,34,"1,79 m",12000000,Brazil,53,67
+Jan Vertonghen,5,Centre-Back,Tottenham Hotspur ,4/24/87,32,"1,89 m",22000000,Belgium,136,88
+Tom Heaton,1,Goalkeeper,Aston Villa ,4/15/86,33,"1,88 m",6000000,England,3,92
+Toby Alderweireld,4,Centre-Back,Tottenham Hotspur ,3/2/89,30,"1,86 m",40000000,Belgium,96,81
+Leroy Sane,19,Left Winger,Manchester City ,1/11/96,23,"1,84 m",100000000,Germany  France,21,75
+Roberto Firmino,9,Centre-Forward,Liverpool FC ,10/2/91,28,"1,81 m",80000000,Brazil,42,76
+Cesar Azpilicueta,28,Right-Back,Chelsea FC ,8/28/89,30,"1,78 m",35000000,Spain,25,76
+Marcos Alonso,3,Left-Back,Chelsea FC ,12/28/90,28,"1,88 m",32000000,Spain,3,87
+David Luiz,23,Centre-Back,Arsenal FC ,4/22/87,32,"1,89 m",20000000,Brazil  Portugal,56,86
+Antonio Rudiger,2,Centre-Back,Chelsea FC ,3/3/93,26,"1,90 m",50000000,Germany,30,85
+Andreas Christensen,4,Centre-Back,Chelsea FC ,4/10/96,23,"1,88 m",35000000,Denmark,28,81
+Willian,10,Right Winger,Chelsea FC ,8/9/88,31,"1,75 m",35000000,Brazil,69,78
+Pedro,11,Right Winger,Chelsea FC ,7/28/87,32,"1,67 m",20000000,Spain,65,65
+Rodri,16,Defensive Midfield,Manchester City ,6/22/96,23,"1,91 m",80000000,Spain,10,82
+Olivier Giroud,18,Centre-Forward,Chelsea FC ,9/30/86,33,"1,93 m",12000000,France,94,92
+Fabinho,3,Defensive Midfield,Liverpool FC ,10/23/93,26,"1,88 m",50000000,Brazil,8,78
+Andrew Robertson,26,Left-Back,Liverpool FC ,3/11/94,25,"1,78 m",60000000,Scotland,55,64
+Luka Milivojevic,4,Defensive Midfield,Crystal Palace ,4/7/91,28,"1,86 m",20000000,Serbia,34,80
+Wilfried Zaha,11,Right Winger,Crystal Palace ,11/10/92,27,"1,80 m",55000000,Cote d'Ivoire  England,17,66
+Jordan Pickford,1,Goalkeeper,Everton FC ,3/7/94,25,"1,85 m",40000000,England,23,77
+Michael Keane,5,Centre-Back,Everton FC ,1/11/93,26,"1,88 m",30000000,England  Ireland,10,82
+Jay Rodriguez,19,Centre-Forward,Burnley FC ,7/29/89,30,"1,85 m",10000000,England  Spain,1,75
+Gylfi Sigurdsson,10,Attacking Midfield,Everton FC ,9/8/89,30,"1,86 m",35000000,Iceland,72,77
+Kepa,1,Goalkeeper,Chelsea FC ,10/3/94,25,"1,86 m",60000000,Spain,9,85
+Joao Cancelo,27,Right-Back,Manchester City ,5/27/94,25,"1,82 m",55000000,Portugal,16,74
+Dele Alli,20,Attacking Midfield,Tottenham Hotspur ,4/11/96,23,"1,88 m",90000000,England  Nigeria,37,80
+Kasper Schmeichel,1,Goalkeeper,Leicester City ,11/5/86,33,"1,89 m",12000000,Denmark,51,89
+Harry Maguire,5,Centre-Back,Manchester United ,3/5/93,26,"1,94 m",70000000,England,24,100
+Ricardo Pereira,21,Right-Back,Leicester City ,10/6/93,26,"1,75 m",30000000,Portugal  Cape Verde,5,70
+Riyad Mahrez,26,Right Winger,Manchester City ,2/21/91,28,"1,79 m",60000000,Algeria  France,57,67
+Felipe Anderson,8,Left Winger,West Ham United ,4/15/93,26,"1,75 m",45000000,Brazil,1,70
+Joao Moutinho,28,Central Midfield,Wolverhampton Wanderers ,9/8/86,33,"1,70 m",10000000,Portugal,120,61
+Wilfred Ndidi,25,Defensive Midfield,Leicester City ,12/16/96,22,"1,83 m",35000000,Nigeria,34,74
+Jamie Vardy,9,Centre-Forward,Leicester City ,1/11/87,32,"1,79 m",20000000,England,26,74
+Joe Gomez,12,Centre-Back,Liverpool FC ,5/23/97,22,"1,88 m",35000000,England  The Gambia,7,77
+Georginio Wijnaldum,5,Central Midfield,Liverpool FC ,11/11/90,29,"1,75 m",50000000,Netherlands  Suriname,61,69
+Joel Matip,32,Centre-Back,Liverpool FC ,8/8/91,28,"1,95 m",35000000,Cameroon  Germany,27,90
+Trent Alexander-Arnold,66,Right-Back,Liverpool FC ,10/7/98,21,"1,80 m",80000000,England,7,69
+Alex Oxlade-Chamberlain,15,Central Midfield,Liverpool FC ,8/15/93,26,"1,75 m",35000000,England,33,70
+Jordan Henderson,14,Central Midfield,Liverpool FC ,6/17/90,29,"1,87 m",35000000,England,55,80
+Ilkay Gundogan,8,Central Midfield,Manchester City ,10/24/90,29,"1,80 m",50000000,Germany,35,80
+Kyle Walker,2,Right-Back,Manchester City ,5/28/90,29,"1,83 m",50000000,England,48,70
+James Milner,7,Central Midfield,Liverpool FC ,1/4/86,33,"1,75 m",15000000,England,61,70
+Naby Keita,8,Central Midfield,Liverpool FC ,2/10/95,24,"1,72 m",50000000,Guinea,33,64
+John Stones,5,Centre-Back,Manchester City ,5/28/94,25,"1,88 m",60000000,England,38,70
+Nicolas Otamendi,30,Centre-Back,Manchester City ,2/12/88,31,"1,83 m",25000000,Argentina,68,81
+Giovani Lo Celso,18,Central Midfield,Tottenham Hotspur ,4/9/96,23,"1,77 m",50000000,Argentina,19,68
+Benjamin Mendy,22,Left-Back,Manchester City ,7/17/94,25,"1,85 m",35000000,France,10,85
+Anthony Martial,9,Left Winger,Manchester United ,12/5/95,23,"1,83 m",60000000,France  Guadeloupe,18,76
+Nicolas Pepe,19,Right Winger,Arsenal FC ,5/29/95,24,"1,83 m",75000000,Ivory Coast,68,5
+Marcus Rashford,10,Centre-Forward,Manchester United ,10/31/97,22,"1,85 m",80000000,England,36,70
+Gabriel Jesus,9,Centre-Forward,Manchester City ,4/3/97,22,"1,75 m",70000000,Brazil,37,73
+Sergio Romero,22,Goalkeeper,Manchester United ,2/22/87,32,"1,92 m",3500000,Argentina  Italy,96,86
+Davinson Sanchez,6,Centre-Back,Tottenham Hotspur ,6/12/96,23,"1,87 m",55000000,Colombia,22,79
+Luke Shaw,23,Left-Back,Manchester United ,7/12/95,24,"1,81 m",30000000,England,8,75
+Lucas Digne,12,Left-Back,Everton FC ,7/20/93,26,"1,78 m",30000000,France,28,74
+Eric Bailly,3,Centre-Back,Manchester United ,4/12/94,25,"1,87 m",25000000,Cote d'Ivoire,34,77
+Victor Lindelof,2,Centre-Back,Manchester United ,7/17/94,25,"1,87 m",35000000,Sweden,32,80
+Nemanja Matic,31,Defensive Midfield,Manchester United ,8/1/88,31,"1,94 m",25000000,Serbia  Slovakia,48,85
+Juan Mata,8,Attacking Midfield,Manchester United ,4/28/88,31,"1,70 m",20000000,Spain,41,63
+Jesse Lingard,14,Right Winger,Manchester United ,12/15/92,26,"1,74 m",40000000,England,24,62
+Sebastien Haller,22,Centre-Forward,West Ham United ,6/22/94,25,"1,90 m",45000000,Ivory Coast,8,20
+Martin Dubravka,1,Goalkeeper,Newcastle United ,1/15/89,30,"1,91 m",7000000,Slovakia,16,80
+Lucas Moura,27,Right Winger,Tottenham Hotspur ,8/13/92,27,"1,72 m",40000000,Brazil,35,70
+Jorginho,5,Defensive Midfield,Chelsea FC ,12/20/91,27,"1,80 m",65000000,Italy  Brazil,19,67
+Rui Patricio,11,Goalkeeper,Wolverhampton Wanderers ,2/15/88,31,"1,90 m",20000000,Portugal,86,84
+Danny Rose,3,Left-Back,Tottenham Hotspur ,7/2/90,29,"1,73 m",25000000,England  Jamaica,29,76
+Erik Lamela,11,Right Winger,Tottenham Hotspur ,3/4/92,27,"1,84 m",22000000,Argentina  Spain,25,80
+Harry Winks,8,Central Midfield,Tottenham Hotspur ,2/2/96,23,"1,78 m",40000000,England,4,74
+Moussa Sissoko,17,Central Midfield,Tottenham Hotspur ,8/16/89,30,"1,87 m",25000000,France,60,91
+Mateo Kovacic,17,Central Midfield,Chelsea FC ,5/6/94,25,"1,77 m",35000000,Croatia  Austria,54,78
+Lucas Torreira,11,Defensive Midfield,Arsenal FC ,2/11/96,23,"1,66 m",55000000,Uruguay  Spain,21,64
+Ruben Neves,8,Defensive Midfield,Wolverhampton Wanderers ,3/13/97,22,"1,80 m",50000000,Portugal,14,80
+Etienne Capoue,29,Defensive Midfield,Watford FC ,7/11/88,31,"1,89 m",8000000,France,7,84
+Abdoulaye Doucoure,16,Central Midfield,Watford FC ,1/1/93,26,"1,83 m",25000000,France,1,76
+Gerard Deulofeu,7,Right Winger,Watford FC ,3/13/94,25,"1,77 m",25000000,Spain,4,73
+Lukasz Fabianski,1,Goalkeeper,West Ham United ,4/18/85,34,"1,90 m",5000000,Poland,52,83
+Manuel Lanzini,10,Attacking Midfield,West Ham United ,2/15/93,26,"1,67 m",20000000,Argentina,5,59
+Diogo Jota,18,Left Winger,Wolverhampton Wanderers ,12/4/96,22,"1,78 m",35000000,Portugal,23,73
+Ben Foster,26,Goalkeeper,Watford FC ,4/3/83,36,"1,93 m",3000000,England,8,90
+Xherdan Shaqiri,23,Right Winger,Liverpool FC ,10/10/91,28,"1,69 m",25000000,Switzerland,100,33
+Tanguy Ndombele,28,Central Midfield,Tottenham Hotspur ,12/28/96,22,"1,81 m",65000000,France  DR Congo,6,76
+Dani Ceballos,8,Central Midfield,Arsenal FC ,8/7/96,23,"1,79 m",45000000,Spain,9,70
+Pablo Fornals,18,Attacking Midfield,West Ham United ,2/22/96,23,"1,78 m",25000000,Spain,2,67
+Kurt Zouma,15,Centre-Back,Chelsea FC ,10/27/94,25,"1,90 m",25000000,France  Central African Republic,5,96
+Miguel Almiron,24,Attacking Midfield,Newcastle United ,2/10/94,25,"1,74 m",20000000,Paraguay,20,63
+Youri Tielemans,8,Central Midfield,Leicester City ,5/7/97,22,"1,76 m",45000000,Belgium,47,20
+Ralf Fahrmann,21,Goalkeeper,Norwich City ,9/27/88,31,"1,97 m",4000000,Germany,1,98
+Roberto Pereyra,37,Attacking Midfield,Watford FC ,1/7/91,28,"1,82 m",13000000,Argentina,19,77
+Dejan Lovren,6,Centre-Back,Liverpool FC ,7/5/89,30,"1,88 m",20000000,Croatia,70,66
+Raul Jimenez,9,Centre-Forward,Wolverhampton Wanderers ,5/5/91,28,"1,88 m",35000000,Mexico,79,81
+Bernard,20,Left Winger,Everton FC ,9/8/92,27,"1,64 m",20000000,Brazil  Spain,14,60
+Aaron Wan-Bissaka,29,Right-Back,Manchester United ,11/26/97,21,"1,83 m",40000000,England,-,72
+Allan Saint-Maximin,10,Right Winger,Newcastle United ,3/12/97,22,"1,73 m",25000000,France  Guadeloupe,7,67
+Christian Pulisic,22,Right Winger,Chelsea FC ,9/18/98,21,"1,72 m",60000000,United States  Croatia,34,69
+Ruben Loftus-Cheek,12,Central Midfield,Chelsea FC ,1/23/96,23,"1,91 m",30000000,England,10,88
+Ben Chilwell,3,Left-Back,Leicester City ,12/21/96,22,"1,78 m",35000000,England,9,77
+Wesley,9,Centre-Forward,Aston Villa ,11/26/96,22,"1,91 m",20000000,Brazil,-,94
+James Ward-Prowse,16,Central Midfield,Southampton FC ,11/1/94,25,"1,77 m",18000000,England,2,66
+Alex Iwobi,17,Left Winger,Everton FC ,5/3/96,23,"1,83 m",32000000,Nigeria  England,38,75
+Jean-Philippe Gbamin,25,Defensive Midfield,Everton FC ,9/25/95,24,"1,86 m",28000000,Ivory Coast,12,83
+Angelino,12,Left-Back,Manchester City ,1/4/97,22,"1,75 m",16000000,Spain,2,69
+James Maddison,10,Attacking Midfield,Leicester City ,11/23/96,22,"1,75 m",45000000,England,-,73
+Richarlison,7,Left Winger,Everton FC ,5/10/97,22,"1,79 m",50000000,Brazil,16,71
+Eric Dier,15,Defensive Midfield,Tottenham Hotspur ,1/15/94,25,"1,88 m",30000000,England  Portugal,40,90
+Leandro Trossard,11,Left Winger,Brighton & Hove Albion ,12/4/94,24,"1,72 m",16000000,Belgium,-,67
+Jonny Otto,19,Left-Back,Wolverhampton Wanderers ,3/3/94,25,"1,75 m",20000000,Spain,3,70
+Jefferson Lerma,8,Defensive Midfield,AFC Bournemouth ,10/25/94,25,"1,79 m",25000000,Colombia,13,70
+Ross Barkley,8,Central Midfield,Chelsea FC ,12/5/93,25,"1,85 m",30000000,England,33,87
+James Tarkowski,5,Centre-Back,Burnley FC ,11/19/92,26,"1,85 m",18000000,England  Poland,2,81
+Nick Pope,1,Goalkeeper,Burnley FC ,4/19/92,27,"1,97 m",10000000,England,1,76
+Michy Batshuayi,23,Centre-Forward,Chelsea FC ,10/2/93,26,"1,84 m",25000000,Belgium,27,88
+Sead Kolasinac,31,Left-Back,Arsenal FC ,6/20/93,26,"1,83 m",20000000,Bosnia-Herzegovina  Germany,29,85
+Fabian Schar,5,Centre-Back,Newcastle United ,12/20/91,27,"1,86 m",12000000,Switzerland,52,84
+Fabian Balbuena,4,Centre-Back,West Ham United ,8/23/91,28,"1,88 m",12000000,Paraguay,10,85
+Shkodran Mustafi,20,Centre-Back,Arsenal FC ,4/17/92,27,"1,84 m",18000000,Germany,20,82
+Willy Boly,15,Centre-Back,Wolverhampton Wanderers ,2/3/91,28,"1,95 m",15000000,France  Cote d'Ivoire,-,97
+Ben Davies,33,Left-Back,Tottenham Hotspur ,4/24/93,26,"1,81 m",25000000,Wales,48,76
+Fred,17,Central Midfield,Manchester United ,3/5/93,26,"1,69 m",25000000,Brazil,9,64
+Mamadou Sakho,12,Centre-Back,Crystal Palace ,2/13/90,29,"1,87 m",15000000,France,29,83
+Joshua King,7,Second Striker,AFC Bournemouth ,1/15/92,27,"1,81 m",20000000,Norway,44,82
+Phil Jones,4,Centre-Back,Manchester United ,2/21/92,27,"1,85 m",15000000,England,27,71
+Serge Aurier,24,Right-Back,Tottenham Hotspur ,12/24/92,26,"1,76 m",15000000,Cote d'Ivoire,60,76
+Jonny Evans,6,Centre-Back,Leicester City ,1/3/88,31,"1,88 m",12000000,Northern Ireland,78,77
+Nacho Monreal,18,Left-Back,Arsenal FC ,2/26/86,33,"1,80 m",8000000,Spain,22,77
+Seamus Coleman,23,Right-Back,Everton FC ,10/11/88,31,"1,77 m",15000000,Ireland,54,77
+Adam Lallana,20,Attacking Midfield,Liverpool FC ,5/10/88,31,"1,72 m",15000000,England,34,73
+Jack Wilshere,19,Central Midfield,West Ham United ,1/1/92,27,"1,72 m",10000000,England,34,68
+Vicente Guaita,31,Goalkeeper,Crystal Palace ,1/10/87,32,"1,90 m",5000000,Spain,NA,80
+Andrii Yarmolenko,7,Right Winger,West Ham United ,10/23/89,30,"1,90 m",20000000,Ukraine,85,83
+Cedric Soares,2,Right-Back,Southampton FC ,8/31/91,28,"1,71 m",12000000,Portugal  Germany,33,82
+Ismaila Sarr,23,Right Winger,Watford FC ,2/25/98,21,"1,85 m",30000000,Senegal,22,76
+Declan Rice,41,Defensive Midfield,West Ham United ,1/14/99,20,"1,85 m",50000000,England,6,80
+Issa Diop,23,Centre-Back,West Ham United ,1/9/97,22,"1,94 m",35000000,France  Senegal,6,92
+Oleksandr Zinchenko,11,Left-Back,Manchester City ,12/15/96,22,"1,75 m",30000000,Ukraine,31,64
+Leander Dendoncker,32,Defensive Midfield,Wolverhampton Wanderers ,4/15/95,24,"1,88 m",25000000,Belgium,9,88
+Joelinton,9,Centre-Forward,Newcastle United ,8/14/96,23,"1,86 m",35000000,Brazil,4,81
+Divock Origi,27,Centre-Forward,Liverpool FC ,4/18/95,24,"1,85 m",20000000,Belgium  Kenya,27,75
+Yerry Mina,13,Centre-Back,Everton FC ,9/23/94,25,"1,95 m",25000000,Colombia,20,94
+Jamaal Lascelles,6,Centre-Back,Newcastle United ,11/11/93,26,"1,88 m",18000000,England,2,89
+Ibrahim Amadou,24,Defensive Midfield,Norwich City ,4/6/93,26,"1,83 m",7000000,France,2,81
+Max Meyer,7,Attacking Midfield,Crystal Palace ,9/18/95,24,"1,73 m",15000000,Germany,4,68
+Shane Duffy,4,Centre-Back,Brighton & Hove Albion ,1/1/92,27,"1,93 m",12000000,Ireland  Northern Ireland,30,76
+Florian Lejeune,20,Centre-Back,Newcastle United ,5/20/91,28,"1,90 m",8000000,France,7,89
+Lewis Dunk,5,Centre-Back,Brighton & Hove Albion ,11/21/91,27,"1,92 m",20000000,England,1,88
+Victor Wanyama,12,Defensive Midfield,Tottenham Hotspur ,6/25/91,28,"1,84 m",15000000,Kenya,52,87
+Christian Kabasele,27,Centre-Back,Watford FC ,2/24/91,28,"1,87 m",8000000,Belgium,2,84
+Matt Doherty,2,Right-Back,Wolverhampton Wanderers ,1/16/92,27,"1,86 m",15000000,Ireland,7,87
+Jannik Vestergaard,4,Centre-Back,Southampton FC ,8/3/92,27,"1,99 m",20000000,Denmark,31,66
+Ryan Bertrand,21,Left-Back,Southampton FC ,8/5/89,30,"1,79 m",15000000,England,19,80
+James Tomkins,5,Centre-Back,Crystal Palace ,3/29/89,30,"1,92 m",6000000,England,1,74
+Chicharito,9,Centre-Forward,West Ham United ,6/1/88,31,"1,75 m",12000000,Mexico,108,73
+Jose Holebas,25,Left-Back,Watford FC ,6/27/84,35,"1,84 m",2000000,Greece  Germany,38,81
+Troy Deeney,9,Centre-Forward,Watford FC ,6/29/88,31,"1,84 m",10000000,England  Jamaica,NA,90
+Danny Welbeck,10,Centre-Forward,Watford FC ,11/26/90,28,"1,85 m",12000000,England,42,73
+Ashley Barnes,10,Centre-Forward,Burnley FC ,10/30/89,30,"1,86 m",10000000,England,1,84
+Ben Mee,6,Centre-Back,Burnley FC ,9/21/89,30,"1,80 m",10000000,England,2,82
+Nathaniel Clyne,2,Right-Back,Liverpool FC ,4/5/91,28,"1,75 m",12000000,England  Grenada,14,67
+Michail Antonio,30,Right Winger,West Ham United ,3/28/90,29,"1,80 m",15000000,England  Jamaica,-,82
+Pascal Gro©¬,13,Central Midfield,Brighton & Hove Albion ,6/15/91,28,"1,81 m",10000000,Germany,4,78
+Johann Berg Gudmundsson,7,Right Winger,Burnley FC ,10/27/90,29,"1,86 m",10000000,Iceland,75,77
+Steve Cook,3,Centre-Back,AFC Bournemouth ,4/19/91,28,"1,85 m",10000000,England,NA,82
+Andros Townsend,10,Right Winger,Crystal Palace ,7/16/91,28,"1,81 m",15000000,England,13,73
+Marcos Rojo,16,Centre-Back,Manchester United ,3/20/90,29,"1,86 m",10000000,Argentina,61,85
+Patrick Cutrone,10,Centre-Forward,Wolverhampton Wanderers ,1/3/98,21,"1,83 m",25000000,Italy,1,78
+David Brooks,20,Attacking Midfield,AFC Bournemouth ,7/8/97,22,"1,73 m",30000000,Wales  England,12,62
+Jack Grealish,10,Attacking Midfield,Aston Villa ,9/10/95,24,"1,75 m",25000000,England,7,68
+Lewis Cook,16,Central Midfield,AFC Bournemouth ,2/3/97,22,"1,75 m",20000000,England,1,71
+Scott McTominay,39,Central Midfield,Manchester United ,12/8/96,22,"1,90 m",20000000,Scotland  England,12,88
+Jan Bednarek,35,Centre-Back,Southampton FC ,4/12/96,23,"1,89 m",15000000,Poland,36,92
+Dominic Calvert-Lewin,9,Centre-Forward,Everton FC ,3/16/97,22,"1,87 m",20000000,England,17,71
+Jesus Vallejo,4,Centre-Back,Wolverhampton Wanderers ,1/5/97,22,"1,84 m",10000000,Spain,-,79
+Will Hughes,19,Central Midfield,Watford FC ,4/17/95,24,"1,85 m",18000000,England,23,74
+Emerson,33,Left-Back,Chelsea FC ,8/3/94,25,"1,75 m",25000000,Italy  Brazil,6,77
+Pierre-Emile Hojbjerg,23,Central Midfield,Southampton FC ,8/5/95,24,"1,85 m",15000000,Denmark  France,31,84
+Nathan Redmond,22,Left Winger,Southampton FC ,3/6/94,25,"1,73 m",20000000,England  Ireland,1,69
+Sofiane Boufal,19,Left Winger,Southampton FC ,9/17/93,26,"1,75 m",12000000,Morocco  France,3,67
+Conor Coady,16,Centre-Back,Wolverhampton Wanderers ,2/25/93,26,"1,85 m",15000000,England,4,80
+Trezeguet,17,Left Winger,Aston Villa ,10/1/94,25,"1,79 m",8000000,Egypt,42,78
+Jonjo Shelvey,8,Central Midfield,Newcastle United ,2/27/92,27,"1,84 m",15000000,England,6,80
+Chris Wood,9,Centre-Forward,Burnley FC ,12/7/91,27,"1,91 m",18000000,New Zealand,55,92
+Davy Propper,24,Central Midfield,Brighton & Hove Albion ,9/2/91,28,"1,85 m",15000000,Netherlands,17,79
+Marco van Ginkel,42,Central Midfield,Chelsea FC ,12/1/92,26,"1,86 m",10000000,Netherlands,8,82
+Djibril Sidibe,19,Right-Back,Everton FC ,7/29/92,27,"1,82 m",12000000,France,18,71
+Joe Hart,20,Goalkeeper,Burnley FC ,4/19/87,32,"1,96 m",4000000,England,75,91
+Ashley Young,18,Left-Back,Manchester United ,7/9/85,34,"1,76 m",5000000,England  Jamaica,39,65
+Gary Cahill,24,Centre-Back,Crystal Palace ,12/19/85,33,"1,93 m",6000000,England,61,88
+Theo Walcott,11,Right Winger,Everton FC ,3/16/89,30,"1,75 m",15000000,England,47,68
+Glenn Murray,17,Centre-Forward,Brighton & Hove Albion ,9/25/83,36,"1,86 m",3000000,England,NA,80
+Claudio Bravo,1,Goalkeeper,Manchester City ,4/13/83,36,"1,84 m",2500000,Chile  Spain,121,80
+Morgan Schneiderlin,18,Defensive Midfield,Everton FC ,11/8/89,30,"1,86 m",15000000,France,15,75
+Fabian Delph,8,Central Midfield,Everton FC ,11/21/89,29,"1,74 m",15000000,England,20,78
+Roberto,13,Goalkeeper,West Ham United ,2/10/86,33,"1,92 m",1500000,Spain,6,94
+Angelo Ogbonna,21,Centre-Back,West Ham United ,5/23/88,31,"1,91 m",8000000,Italy  Nigeria,13,86
+Danny Drinkwater,8,Central Midfield,Burnley FC ,3/5/90,29,"1,77 m",8000000,England,3,81
+Daryl Janmaat,2,Right-Back,Watford FC ,7/22/89,30,"1,85 m",6000000,Netherlands,34,80
+Ashley Westwood,18,Defensive Midfield,Burnley FC ,4/1/90,29,"1,74 m",7000000,England,NA,73
+Teemu Pukki,22,Centre-Forward,Norwich City ,3/29/90,29,"1,80 m",9000000,Finland,75,80
+ Cenk Tosun,14,Centre-Forward,Everton FC ,6/7/91,28,"1,83 m",15000000,Turkey,42,78
+Romain Saiss,27,Defensive Midfield,Wolverhampton Wanderers ,3/26/90,29,"1,88 m",5000000,Morocco  France,30,84
+Phil Foden,47,Central Midfield,Manchester City ,5/28/00,19,"1,71 m",30000000,England,13,69
+Moise Kean,27,Centre-Forward,Everton FC ,2/28/00,19,"1,83 m",40000000,Italy  Cote d'Ivoire,3,79
+Kieran Tierney,3,Left-Back,Arsenal FC ,6/5/97,22,"1,78 m",25000000,Scotland,30,16
+Tammy Abraham,9,Centre-Forward,Chelsea FC ,10/2/97,22,"1,91 m",32000000,England  Nigeria,4,80
+Filip Benkovic,16,Centre-Back,Leicester City ,7/13/97,22,"1,94 m",11000000,Croatia,1,91
+A. Danjuma Groeneveld,14,Left Winger,AFC Bournemouth ,1/31/97,22,"1,78 m",12000000,Netherlands  Nigeria,2,80
+Isaac Hayden,14,Defensive Midfield,Newcastle United ,3/22/95,24,"1,86 m",10000000,England  Jamaica,3,79
+Angus Gunn,28,Goalkeeper,Southampton FC ,1/22/96,23,"1,96 m",10000000,England  Scotland,-,77
+Rob Holding,16,Centre-Back,Arsenal FC ,9/20/95,24,"1,89 m",12000000,England,5,75
+Bjorn Engels,22,Centre-Back,Aston Villa ,9/15/94,25,"1,94 m",10000000,Belgium,-,83
+Frederic Guilbert,24,Right-Back,Aston Villa ,12/24/94,24,"1,78 m",6000000,France,1,70
+Dennis Praet,26,Central Midfield,Leicester City ,5/14/94,25,"1,81 m",24000000,Belgium,5,78
+Victor Camarasa,23,Central Midfield,Crystal Palace ,5/28/94,25,"1,83 m",10000000,Spain,4,76
+Marvelous Nakamba,11,Defensive Midfield,Aston Villa ,1/19/94,25,"1,77 m",8000000,Zimbabwe,12,76
+Ravel Morrison,14,Attacking Midfield,Sheffield United ,2/2/93,26,"1,75 m",1000000,Jamaica  England,-,71
+Jurgen Locadia,9,Centre-Forward,Brighton & Hove Albion ,11/7/93,26,"1,85 m",10000000,Netherlands,,87
+Charlie Taylor,3,Left-Back,Burnley FC ,9/18/93,26,"1,76 m",7000000,England,2,70
+Arthur Masuaku,26,Left-Back,West Ham United ,11/7/93,26,"1,79 m",10000000,DR Congo  France,1,70
+DeAndre Yedlin,22,Right-Back,Newcastle United ,7/9/93,26,"1,73 m",8000000,United States  Latvia,60,75
+Florin Andone,10,Centre-Forward,Brighton & Hove Albion ,4/11/93,26,"1,80 m",4500000,Romania,24,78
+Oriol Romeu,14,Defensive Midfield,Southampton FC ,9/24/91,28,"1,83 m",10000000,Spain,5,83
+Alex McCarthy,1,Goalkeeper,Southampton FC ,12/3/89,29,"1,93 m",5000000,England,1,79
+Danny Ings,9,Centre-Forward,Southampton FC ,7/23/92,27,"1,78 m",15000000,England,1,73
+Phil Jagielka,15,Centre-Back,Sheffield United ,8/17/82,37,"1,80 m",1000000,England  Poland,40,87
+Heurelho Gomes,1,Goalkeeper,Watford FC ,2/15/81,38,"1,91 m",1000000,Brazil,12,95
+Mark Noble,16,Central Midfield,West Ham United ,5/8/87,32,"1,80 m",7000000,England  Ireland,20,76
+Robert Snodgrass,11,Right Winger,West Ham United ,9/7/87,32,"1,82 m",7000000,Scotland,28,82
+Jack Cork,4,Defensive Midfield,Burnley FC ,6/25/89,30,"1,85 m",15000000,England,1,75
+James McArthur,18,Central Midfield,Crystal Palace ,10/7/87,32,"1,78 m",7000000,Scotland,32,66
+Adrian,13,Goalkeeper,Liverpool FC ,1/3/87,32,"1,90 m",5000000,Spain,-,73
+Winston Reid,2,Centre-Back,West Ham United ,7/3/88,31,"1,91 m",5000000,New Zealand  Denmark,24,87
+Sung-yong Ki,4,Defensive Midfield,Newcastle United ,1/24/89,30,"1,89 m",6000000,"Korea, South",110,75
+Craig Cathcart,15,Centre-Back,Watford FC ,2/6/89,30,"1,89 m",5000000,Northern Ireland,41,83
+Dale Stephens,6,Central Midfield,Brighton & Hove Albion ,12/12/89,29,"1,85 m",6000000,England,NA,78
+Marc Albrighton,11,Right Midfield,Leicester City ,11/18/89,29,"1,75 m",10000000,England,8,74
+Patrick van Aanholt,3,Left-Back,Crystal Palace ,8/29/90,29,"1,76 m",10000000,Netherlands  Curacao,9,67
+Cheikhou Kouyate,8,Defensive Midfield,Crystal Palace ,12/21/89,29,"1,89 m",10000000,Senegal,57,83
+Aaron Cresswell,3,Left-Back,West Ham United ,12/15/89,29,"1,70 m",8000000,England,3,66
+Tom Cleverley,8,Central Midfield,Watford FC ,8/12/89,30,"1,75 m",7000000,England,13,67
+Kiko Femenia,21,Right-Back,Watford FC ,2/2/91,28,"1,71 m",6000000,Spain,-,61
+Adam Smith,15,Right-Back,AFC Bournemouth ,4/29/91,28,"1,74 m",7000000,England,12,78
+Andre Gray,18,Centre-Forward,Watford FC ,6/26/91,28,"1,78 m",15000000,England  Jamaica,6,78
+Martin Montoya,22,Right-Back,Brighton & Hove Albion ,4/14/91,28,"1,75 m",8000000,Spain,-,73
+Aaron Mooy,18,Central Midfield,Brighton & Hove Albion ,9/15/90,29,"1,79 m",14000000,Australia  Netherlands,42,72
+Robbie Brady,12,Left Midfield,Burnley FC ,1/14/92,27,"1,76 m",8000000,Ireland,45,77
+Federico Fernandez,18,Centre-Back,Newcastle United ,2/21/89,30,"1,90 m",7000000,Argentina,32,83
+Dwight Gayle,12,Centre-Forward,Newcastle United ,10/17/90,29,"1,77 m",15000000,England  Jamaica,NA,78
+Jose Izquierdo,19,Left Winger,Brighton & Hove Albion ,7/7/92,27,"1,71 m",10000000,Colombia,6,75
+Mason Mount,19,Attacking Midfield,Chelsea FC ,1/10/99,20,"1,78 m",35000000,England,4,64
+Ryan Sessegnon,19,Left Midfield,Tottenham Hotspur ,5/18/00,19,"1,78 m",35000000,England,10,71
+Matteo Guendouzi,29,Central Midfield,Arsenal FC ,4/14/99,20,"1,84 m",45000000,France  Morocco,-,68
+Harry Wilson,22,Right Winger,AFC Bournemouth ,3/22/97,22,"1,73 m",18000000,Wales,13,70
+Dean Henderson,1,Goalkeeper,Sheffield United ,3/12/97,22,"1,88 m",7000000,England,-,85
+Diogo Dalot,20,Right-Back,Manchester United ,3/18/99,20,"1,83 m",20000000,Portugal,6,76
+Harvey Barnes,15,Left Midfield,Leicester City ,12/9/97,21,"1,80 m",12000000,England,4,66
+Ainsley Maitland-Niles,15,Right Midfield,Arsenal FC ,8/29/97,22,"1,80 m",18000000,England,4,71
+Tom Davies,26,Central Midfield,Everton FC ,6/30/98,21,"1,80 m",15000000,England,16,70
+Neal Maupay,7,Centre-Forward,Brighton & Hove Albion ,8/14/96,23,"1,73 m",18000000,France,2,69
+Mason Holgate,2,Centre-Back,Everton FC ,10/22/96,23,"1,87 m",7000000,England  Jamaica,6,75
+Yves Bissouma,8,Central Midfield,Brighton & Hove Albion ,8/30/96,23,"1,82 m",15000000,Mali,19,96
+Emiliano Martinez,26,Goalkeeper,Arsenal FC ,9/2/92,27,"1,90 m",3500000,Argentina,-,85
+Calum Chambers,21,Right-Back,Arsenal FC ,1/20/95,24,"1,83 m",14000000,England,3,73
+John McGinn,7,Central Midfield,Aston Villa ,10/18/94,25,"1,78 m",6500000,Scotland,42,68
+Demarai Gray,7,Left Winger,Leicester City ,6/28/96,23,"1,80 m",20000000,England  Jamaica,-,74
+Bernardo,30,Left-Back,Brighton & Hove Albion ,5/14/95,24,"1,86 m",9000000,Brazil,NA,76
+Nathaniel Chalobah,14,Defensive Midfield,Watford FC ,12/12/94,24,"1,85 m",7000000,England  Sierra Leone,1,76
+Paulo Gazzaniga,22,Goalkeeper,Tottenham Hotspur ,1/2/92,27,"1,95 m",2000000,Argentina  Italy,1,90
+Jetro Willems,15,Left-Back,Newcastle United ,3/30/94,25,"1,69 m",5000000,Netherlands,22,82
+Solly March,20,Left Midfield,Brighton & Hove Albion ,7/20/94,25,"1,80 m",8000000,England,3,77
+L. Kalinix,28,Goalkeeper,Aston Villa ,4/3/90,29,"2,01 m",4000000,Croatia,18,99
+Jonas Lossl,49,Goalkeeper,Everton FC ,2/1/89,30,"1,95 m",5000000,Denmark,,94
+Ciaran Clark,2,Centre-Back,Newcastle United ,9/26/89,30,"1,88 m",6000000,Republic of Ireland,,88
+Martin Kelly,34,Right-Back,Crystal Palace ,4/27/90,29,"1,91 m",3000000,England,1,77
+Josip Drmic,20,Centre-Forward,Norwich City ,8/8/92,27,"1,84 m",3000000,Switzerland  Croatia,32,81
+Stuart Armstrong,17,Central Midfield,Southampton FC ,3/30/92,27,"1,83 m",8000000,Scotland,28,75
+Paul Dummett,3,Left-Back,Newcastle United ,9/26/91,28,"1,83 m",7000000,Wales,5,79
+Alireza Jahanbakhsh,16,Right Winger,Brighton & Hove Albion ,8/11/93,26,"1,80 m",12000000,Iran,44,78
+Yoshinori Muto,13,Centre-Forward,Newcastle United ,7/15/92,27,"1,78 m",9000000,Japan,29,72
+Artur Boruc,1,Goalkeeper,AFC Bournemouth ,2/20/80,39,"1,93 m",1000000,Poland,65,87
+Simon Francis,2,Right-Back,AFC Bournemouth ,2/16/85,34,"1,91 m",2000000,England,NA,90
+Wes Morgan,5,Centre-Back,Leicester City ,1/21/84,35,"1,85 m",2000000,Jamaica  England,30,101
+Willy Caballero,13,Goalkeeper,Chelsea FC ,9/28/81,38,"1,86 m",1000000,Argentina  Spain,5,81
+Pablo Zabaleta,5,Right-Back,West Ham United ,1/16/85,34,"1,76 m",2000000,Argentina  Spain,58,74
+Scott Dann,6,Centre-Back,Crystal Palace ,2/14/87,32,"1,94 m",4000000,England,2,78
+Leighton Baines,3,Left-Back,Everton FC ,12/11/84,34,"1,70 m",3500000,England,30,70
+Wayne Hennessey,13,Goalkeeper,Crystal Palace ,1/24/87,32,"1,97 m",5000000,Wales,85,90
+Andrew Surman,6,Central Midfield,AFC Bournemouth ,8/20/86,33,"1,78 m",2500000,England  South Africa,4,73
+Adrian Mariappa,6,Centre-Back,Watford FC ,10/3/86,33,"1,79 m",3000000,Jamaica  England,43,79
+Andy Carroll,7,Centre-Forward,Newcastle United ,1/6/89,30,"1,93 m",6000000,England,9,79
+Carlos Sanchez,15,Defensive Midfield,West Ham United ,2/6/86,33,"1,82 m",1500000,Colombia,88,82
+Christian Benteke,17,Centre-Forward,Crystal Palace ,12/3/90,28,"1,90 m",15000000,Belgium  DR Congo,36,83
+Dan Gosling,4,Central Midfield,AFC Bournemouth ,2/1/90,29,"1,80 m",3500000,England,3,79
+Oliver Norwood,16,Central Midfield,Sheffield United ,4/12/91,28,"1,75 m",5000000,Northern Ireland  England,57,69
+Matt Ritchie,11,Right Midfield,Newcastle United ,9/10/89,30,"1,73 m",12000000,Scotland  England,16,76
+James McCarthy,22,Central Midfield,Crystal Palace ,11/12/90,29,"1,80 m",5000000,Ireland  Scotland,41,72
+Junior Stanislas,19,Left Winger,AFC Bournemouth ,11/26/89,29,"1,83 m",3500000,England  St. Lucia,2,76
+Maya Yoshida,3,Centre-Back,Southampton FC ,8/24/88,31,"1,89 m",7000000,Japan,100,78
+Craig Dawson,4,Centre-Back,Watford FC ,5/6/90,29,"1,88 m",6000000,England,1,82
+Jordan Ayew,9,Centre-Forward,Crystal Palace ,9/11/91,28,"1,82 m",8000000,Ghana  France,52,81
+Nampalys Mendy,24,Defensive Midfield,Leicester City ,6/23/92,27,"1,67 m",8000000,Senegal,5,73
+Matthew Lowton,2,Right-Back,Burnley FC ,6/9/89,30,"1,80 m",5000000,England,NA,78
+Jeff Hendrick,13,Central Midfield,Burnley FC ,1/31/92,27,"1,85 m",10000000,Ireland,50,84
+Callum Hudson-Odoi,20,Left Winger,Chelsea FC ,11/7/00,19,"1,77 m",35000000,England  Ghana,2,75
+Juan Foyth,21,Centre-Back,Tottenham Hotspur ,1/12/98,21,"1,87 m",15000000,Argentina  Spain,9,69
+Dwight McNeil,11,Left Winger,Burnley FC ,11/22/99,19,"1,83 m",15000000,England,2,68
+Douglas Luiz,6,Central Midfield,Aston Villa ,5/9/98,21,"1,78 m",10000000,Brazil,-,70
+Hamza Choudhury,20,Defensive Midfield,Leicester City ,10/1/97,22,"1,78 m",10000000,England  Bangladesh,7,64
+Moussa Djenepo,12,Left Winger,Southampton FC ,6/15/98,21,"1,77 m",12000000,Mali,8,65
+Philip Billing,29,Central Midfield,AFC Bournemouth ,6/11/96,23,"1,98 m",15000000,Denmark  Nigeria,-,80
+Patrick Roberts,7,Right Winger,Norwich City ,2/5/97,22,"1,67 m",5000000,England,9,66
+Albian Ajeti,27,Centre-Forward,West Ham United ,2/26/97,22,"1,83 m",7000000,Switzerland,11,78
+Caglar Soyuncu,4,Centre-Back,Leicester City ,5/23/96,23,"1,87 m",20000000,Turkey,28,82
+Oliver McBurnie,9,Centre-Forward,Sheffield United ,6/4/96,23,"1,88 m",12000000,Scotland,8,77
+Che Adams,10,Centre-Forward,Southampton FC ,7/13/96,23,"1,79 m",12000000,England  Antigua and Barbuda,-,66
+Emiliano Buendia,17,Right Winger,Norwich City ,12/25/96,22,"1,72 m",18000000,Argentina  Spain,4,65
+Jack Stephens,5,Centre-Back,Southampton FC ,1/27/94,25,"1,85 m",8000000,England,8,75
+Kyle Walker-Peters,16,Right-Back,Tottenham Hotspur ,4/13/97,22,"1,73 m",10000000,England,11,64
+Jack O'Connell,5,Centre-Back,Sheffield United ,3/29/94,25,"1,91 m",6500000,England,8,85
+Anwar El Ghazi,21,Right Winger,Aston Villa ,5/3/95,24,"1,89 m",7500000,Netherlands  Morocco,2,90
+Adam Masina,11,Left-Back,Watford FC ,1/2/94,25,"1,91 m",5000000,Morocco,5,94
+Ben Gibson,14,Centre-Back,Burnley FC ,1/15/93,26,"1,85 m",10000000,England,-,78
+Adam Webster,15,Centre-Back,Brighton & Hove Albion ,1/4/95,24,"1,90 m",15000000,England,5,75
+Emil Krafth,17,Right-Back,Newcastle United ,8/2/94,25,"1,84 m",5000000,Sweden,21,72
+Javier Manquillo,19,Right-Back,Newcastle United ,5/5/94,25,"1,78 m",5000000,Spain,7,76
+Tyrone Mings,40,Centre-Back,Aston Villa ,3/13/93,26,"1,95 m",18000000,England  Barbados,1,77
+John Egan,12,Centre-Back,Sheffield United ,10/20/92,27,"1,85 m",7000000,Republic of Ireland,21,75
+Ryan Fredericks,24,Right-Back,West Ham United ,10/10/92,27,"1,81 m",7000000,England  Guyana,1,74
+Diego Rico,21,Left-Back,AFC Bournemouth ,2/23/93,26,"1,83 m",7000000,Spain,NA,76
+Jeffrey Schlupp,15,Left Midfield,Crystal Palace ,12/23/92,26,"1,78 m",10000000,Ghana,125,72
+Dimitri Foulquier,36,Right-Back,Watford FC ,3/23/93,26,"1,83 m",3500000,Guadeloupe,2,77
+Aaron Lennon,25,Right Winger,Burnley FC ,4/16/87,32,"1,65 m",5000000,England  Ireland,21,63
+Billy Sharp,10,Centre-Forward,Sheffield United ,2/5/86,33,"1,75 m",2500000,England,NA,70
+Shane Long,7,Centre-Forward,Southampton FC ,1/22/87,32,"1,80 m",5000000,Ireland,88,81
+Gaetan Bong,3,Left-Back,Brighton & Hove Albion ,4/25/88,31,"1,83 m",2000000,Cameroon  France,16,74
+Henri Saivet,28,Attacking Midfield,Newcastle United ,10/26/90,29,"1,75 m",1000000,Senegal,27,73
+James Chester,5,Centre-Back,Aston Villa ,1/23/89,30,"1,77 m",8000000,Wales  England,35,79
+Leon Balogun,14,Centre-Back,Brighton & Hove Albion ,6/28/88,31,"1,90 m",2000000,Nigeria  Germany,31,88
+Enda Stevens,3,Left-Back,Sheffield United ,7/9/90,29,"1,83 m",3500000,Ireland,11,78
+Marvin Zeegelaar,32,Left-Back,Watford FC ,8/12/90,29,"1,86 m",2500000,Netherlands  Suriname,-,82
+Conor Hourihane,14,Central Midfield,Aston Villa ,2/2/91,28,"1,81 m",6500000,Republic of Ireland,12,70
+Timm Klose,15,Centre-Back,Norwich City ,5/9/88,31,"1,95 m",3000000,Switzerland,17,87
+Christian Atsu,30,Left Winger,Newcastle United ,1/10/92,27,"1,65 m",6000000,Ghana,60,65
+Reece James,24,Right-Back,Chelsea FC ,12/8/99,19,"1,82 m",7000000,England,-,82
+Axel Tuanzebe,38,Centre-Back,Manchester United ,11/14/97,22,"1,84 m",7000000,England,1,72
+Timothy Fosu-Mensah,24,Right-Back,Manchester United ,1/2/98,21,"1,90 m",7000000,Netherlands  Ghana,3,78
+Chris Mepham,33,Centre-Back,AFC Bournemouth ,11/5/97,22,"1,91 m",13000000,Wales  England,8,75
+Kelechi Iheanacho,14,Centre-Forward,Leicester City ,10/3/96,23,"1,85 m",12000000,Nigeria,23,80
+Isaac Success,22,Left Winger,Watford FC ,1/7/96,23,"1,82 m",5000000,Nigeria,4,90
+Jordon Ibe,10,Right Winger,AFC Bournemouth ,12/8/95,23,"1,76 m",8000000,England  Nigeria,4,81
+Callum Robinson,11,Left Winger,Sheffield United ,2/2/95,24,"1,78 m",7000000,Ireland  England,9,75
+Daniel Amartey,18,Defensive Midfield,Leicester City ,12/21/94,24,"1,86 m",7000000,Ghana,25,79
+Karl Darlow,26,Goalkeeper,Newcastle United ,10/8/90,29,"1,90 m",3500000,Wales,NA,78
+Moritz Leitner,10,Central Midfield,Norwich City ,12/8/92,26,"1,74 m",3000000,Germany  Austria,24,68
+Tom Trybull,19,Defensive Midfield,Norwich City ,3/9/93,26,"1,81 m",4000000,Germany,4,72
+Luke Freeman,8,Attacking Midfield,Sheffield United ,3/22/92,27,"1,76 m",5000000,England,2,73
+John Fleck,4,Central Midfield,Sheffield United ,8/24/91,28,"1,69 m",5000000,Scotland,1,72
+Kevin Long,28,Centre-Back,Burnley FC ,8/18/90,29,"1,88 m",2500000,Ireland,11,82
+Matej Vydra,27,Centre-Forward,Burnley FC ,5/1/92,27,"1,80 m",8000000,Czech Republic,26,71
+Onel Hernandez,11,Left Winger,Norwich City ,2/1/93,26,"1,72 m",4000000,Cuba  Germany,-,76
+Danny Ward,12,Goalkeeper,Leicester City ,6/22/93,26,"1,91 m",8000000,Wales,7,88
+Maarten Stekelenburg,22,Goalkeeper,Everton FC ,9/22/82,37,"1,97 m",1000000,Netherlands,58,92
+Christian Fuchs,28,Left-Back,Leicester City ,4/7/86,33,"1,87 m",3000000,Austria,78,89
+Jamal Lewis,12,Left-Back,Norwich City ,1/25/98,21,"1,78 m",9000000,Northern Ireland,26,70
+Charlie Daniels,11,Left-Back,AFC Bournemouth ,9/7/86,33,"1,78 m",3000000,England,NA,75
+Tim Krul,1,Goalkeeper,Norwich City ,4/3/88,31,"1,93 m",4000000,Netherlands,8,74
+Sebastian Prodl,5,Centre-Back,Watford FC ,6/21/87,32,"1,94 m",2500000,Austria,73,97
+Mario Vrancic,8,Central Midfield,Norwich City ,5/23/89,30,"1,87 m",3500000,Bosnia-Herzegovina  Germany,6,78
+Erik Pieters,23,Left-Back,Burnley FC ,8/7/88,31,"1,83 m",5000000,Netherlands,18,87
+Ryan Bennett,5,Centre-Back,Wolverhampton Wanderers ,3/6/90,29,"1,88 m",7000000,England,3,78
+Chris Basham,6,Centre-Back,Sheffield United ,7/20/88,31,"1,90 m",2500000,England,NA,80
+Joel Ward,2,Right-Back,Crystal Palace ,10/29/89,30,"1,86 m",4000000,England,NA,83
+Jonathan Kodjia,26,Centre-Forward,Aston Villa ,10/22/89,30,"1,89 m",7000000,Ivory Coast,24,77
+Marco Stiepermann,18,Attacking Midfield,Norwich City ,2/9/91,28,"1,90 m",4000000,Germany,3,86
+Ezequiel Schelotto,21,Right-Back,Brighton & Hove Albion ,5/23/89,30,"1,87 m",2000000,Italy  Argentina,1,77
+Jota,23,Right Winger,Aston Villa ,6/16/91,28,"1,80 m",5000000,Spain,NA,70
+Oumar Niasse,29,Centre-Forward,Everton FC ,4/18/90,29,"1,82 m",6000000,Senegal,9,82
+Reiss Nelson,24,Right Winger,Arsenal FC ,12/10/99,19,"1,75 m",17000000,England  Zimbabwe,8,71
+Max Aarons,2,Right-Back,Norwich City ,1/4/00,19,"1,78 m",8000000,England,4,73
+Daniel James,21,Left Winger,Manchester United ,11/10/97,22,"1,70 m",25000000,Wales  England,6,76
+Sean Longstaff,36,Central Midfield,Newcastle United ,10/30/97,22,"1,81 m",18000000,England,NA,65
+Fikayo Tomori,29,Centre-Back,Chelsea FC ,12/19/97,21,"1,84 m",10000000,England  Canada,-,75
+Tudor Baluta,28,Defensive Midfield,Brighton & Hove Albion ,3/27/99,20,"1,91 m",4500000,Romania,5,80
+Matt Targett,18,Left-Back,Aston Villa ,9/18/95,24,"1,83 m",10000000,England  Scotland,13,70
+Ben Osborn,23,Left Midfield,Sheffield United ,8/5/94,25,"1,76 m",3000000,England,1,75
+Muhamed Besic,27,Defensive Midfield,Sheffield United ,9/10/92,27,"1,80 m",5000000,Bosnia-Herzegovina  Germany,43,80
+Sam Byram,3,Right-Back,Norwich City ,9/16/93,26,"1,83 m",3500000,England,-,72
+Jairo Riedewald,44,Centre-Back,Crystal Palace ,9/9/96,23,"1,82 m",5000000,Netherlands  Suriname,3,79
+Christoph Zimmermann,6,Centre-Back,Norwich City ,1/12/93,26,"1,94 m",3500000,Germany,NA,92
+Michael Hector,3,Centre-Back,Chelsea FC ,7/19/92,27,"1,93 m",3000000,Jamaica  England,30,82
+Kenny McLean,23,Central Midfield,Norwich City ,1/8/92,27,"1,80 m",2500000,Scotland,9,70
+Lee Grant,13,Goalkeeper,Manchester United ,1/27/83,36,"1,93 m",750000,England,4,83
+Scott Carson,33,Goalkeeper,Manchester City ,9/3/85,34,"1,88 m",2000000,England,4,86
+Phil Bardsley,26,Right-Back,Burnley FC ,6/28/85,34,"1,80 m",1500000,Scotland  England,13,79
+David McGoldrick,17,Centre-Forward,Sheffield United ,11/29/87,31,"1,84 m",2000000,Ireland  England,11,74
+Orjan Nyland,25,Goalkeeper,Aston Villa ,9/10/90,29,"1,92 m",2000000,Norway,27,90
+Ben Godfrey,4,Centre-Back,Norwich City ,1/15/98,21,"1,83 m",9000000,England,2,74
+Kevin Danso,38,Centre-Back,Southampton FC ,9/19/98,21,"1,90 m",8000000,Austria,6,85
+Bartosz Kapustka,67,Attacking Midfield,Leicester City ,12/23/96,22,"1,79 m",2500000,Poland,14,72
+Lys Mousset,22,Centre-Forward,Sheffield United ,2/8/96,23,"1,84 m",6000000,France  Senegal,8,80
+Adama Traore,37,Right Winger,Wolverhampton Wanderers ,1/25/96,23,"1,78 m",15000000,Spain  Mali,-,72
+Dan Burn,33,Centre-Back,Brighton & Hove Albion ,5/9/92,27,"2,01 m",3000000,England,NA,87
+Alexander Tettey,27,Defensive Midfield,Norwich City ,4/4/86,33,"1,81 m",2000000,Norway  Ghana,34,68
+Jack Colback,8,Defensive Midfield,Newcastle United ,10/24/89,30,"1,77 m",3000000,England,-,77
+Eric Garcia,50,Centre-Back,Manchester City ,2009/01/01,18,"1,83 m",7000000,Spain,,67
+Morgan Gibbs-White,17,Central Midfield,Wolverhampton Wanderers ,1/27/00,19,"1,71 m",8000000,England,3,70
+Ruben Vinagre,29,Left-Back,Wolverhampton Wanderers ,4/9/99,20,"1,74 m",10000000,Portugal,3,64
+Konstantinos Mavropanos,27,Centre-Back,Arsenal FC ,12/11/97,21,"1,94 m",3000000,Greece,4,88
+Dominic Solanke,9,Centre-Forward,AFC Bournemouth ,9/14/97,22,"1,86 m",18000000,England  Nigeria,1,80
+Ezri Konsa,15,Centre-Back,Aston Villa ,10/23/97,22,"1,83 m",8000000,England  DR Congo,7,77
+Jack Stacey,17,Right-Back,AFC Bournemouth ,4/6/96,23,"1,80 m",4000000,England,NA,62
+Michael Verrips,21,Goalkeeper,Sheffield United ,12/3/96,22,"1,96 m",1500000,Netherlands,3,90
+Jed Steer,12,Goalkeeper,Aston Villa ,9/23/92,27,"1,82 m",2000000,England  Scotland,2,80
+Connor Wickham,21,Centre-Forward,Crystal Palace ,3/31/93,26,"1,89 m",3000000,England  Northern Ireland,17,90
+Grant Hanley,5,Centre-Back,Norwich City ,11/20/91,27,"1,88 m",3000000,Scotland,40,76
+Leon Clarke,24,Centre-Forward,Sheffield United ,2/10/85,34,"1,88 m",500000,England,NA,89
+John Ruddy,21,Goalkeeper,Wolverhampton Wanderers ,10/24/86,33,"1,92 m",3000000,England,1,97
+Rob Elliot,21,Goalkeeper,Newcastle United ,4/30/86,33,"1,90 m",1000000,Ireland  England,4,94
+Neil Taylor,3,Left-Back,Aston Villa ,2/7/89,30,"1,76 m",4000000,Wales,42,75
+Henri Lansbury,8,Central Midfield,Aston Villa ,10/12/90,29,"1,83 m",1500000,England,17,85
+Ahmed Elmohamady,27,Right-Back,Aston Villa ,9/9/87,32,"1,82 m",3000000,Egypt,87,78
+Cuco Martina,30,Right-Back,Everton FC ,9/25/89,30,"1,85 m",1500000,Curacao  Netherlands,44,77
+Philip Heise,16,Left-Back,Norwich City ,6/20/91,28,"1,84 m",1000000,Germany,NA,78
+Domingos Quina,20,Central Midfield,Watford FC ,11/18/99,19,"1,73 m",5000000,Portugal,3,66
+James Justin,2,Right-Back,Leicester City ,2/23/98,21,"1,83 m",4000000,England,3,71
+Yan Valery,43,Right-Back,Southampton FC ,2/22/99,20,"1,80 m",7000000,France,1,70
+Bailey Peacock-Farrell,15,Goalkeeper,Burnley FC ,10/29/96,23,"1,94 m",1500000,Northern Ireland,29,73
+Simon Moore,25,Goalkeeper,Sheffield United ,5/19/90,29,"1,91 m",350000,England,NA,73
+Daniel Bachmann,35,Goalkeeper,Watford FC ,7/9/94,25,"1,91 m",500000,Austria,-,81
+Ayoze Perez,17,Second Striker,Leicester City ,7/29/93,26,"1,78 m",20000000,Spain,2,77
+Dion Henry,30,Goalkeeper,Crystal Palace ,9/12/97,22,"1,92 m",50000,England,NA,82
+George Baldock,2,Right-Back,Sheffield United ,1/26/93,26,"1,78 m",3000000,England,NA,67
+Richard Stearman,19,Centre-Back,Sheffield United ,8/19/87,32,"1,91 m",1000000,England  Ireland,4,76
+Andre Gomes,21,Central Midfield,Everton FC ,7/30/93,26,"1,88 m",28000000,Portugal,29,61
+Lloyd Kelly,26,Left-Back,AFC Bournemouth ,10/6/98,21,"1,90 m",9000000,England,6,70
+Gabriel Martinelli,35,Centre-Forward,Arsenal FC ,6/18/01,18,"1,80 m",8000000,Brazil  Italy,-,75
+Aaron Ramsdale,12,Goalkeeper,AFC Bournemouth ,5/14/98,21,"1,88 m",6000000,England,5,77
+Pontus Dahlberg,30,Goalkeeper,Watford FC ,1/21/99,20,"1,95 m",1000000,Sweden,2,84
+Kortney Hause,30,Centre-Back,Aston Villa ,7/16/95,24,"1,91 m",3000000,England,10,93
+Todd Cantwell,14,Left Midfield,Norwich City ,2/27/98,21,"1,77 m",7000000,England,1,70
+Matty James,22,Central Midfield,Leicester City ,7/22/91,28,"1,81 m",1500000,England,3,84
+Dennis Srbeny,32,Centre-Forward,Norwich City ,5/5/94,25,"1,90 m",1250000,Germany,NA,83
+Jason Steele,23,Goalkeeper,Brighton & Hove Albion ,8/18/90,29,"1,88 m",750000,England,7,79
+Kieron Freeman,18,Right-Back,Sheffield United ,3/21/92,27,"1,78 m",1500000,Wales  England,1,79
+Eldin Jakupovic,35,Goalkeeper,Leicester City ,10/2/84,35,"1,91 m",750000,Switzerland,1,83
+Michael McGovern,33,Goalkeeper,Norwich City ,7/12/84,35,"1,90 m",350000,Northern Ireland,28,89
+David Button,27,Goalkeeper,Brighton & Hove Albion ,2/27/89,30,"1,91 m",1500000,England,1,87
+Mason Greenwood,26,Centre-Forward,Manchester United ,2001/10/01,18,"1,81 m",10000000,England,2,65
+Oliver Skipp,29,Defensive Midfield,Tottenham Hotspur ,9/16/00,19,"1,75 m",8000000,England,2,70
+Joe Willock,28,Central Midfield,Arsenal FC ,8/20/99,20,"1,79 m",10000000,England  Montserrat,2,71
+Goncalo Cardoso,20,Centre-Back,West Ham United ,10/21/00,19,"1,89 m",2500000,Portugal,2,83
+Beni Baningime,34,Central Midfield,Everton FC ,9/9/98,21,NA,2000000,World Football,NA,70
+Jack Simpson,25,Centre-Back,AFC Bournemouth ,1/8/97,22,"1,90 m",1500000,England,1,83
+John Lundstram,7,Central Midfield,Sheffield United ,2/18/94,25,"1,81 m",2000000,England,1,74
+Ricky Holmes,26,Left Winger,Sheffield United ,6/20/87,32,"1,88 m",350000,England,1,75
+Pedro Neto,7,Right Winger,Wolverhampton Wanderers ,3/9/00,19,"1,72 m",7000000,Portugal,1,63
+Matt Macey,33,Goalkeeper,Arsenal FC ,9/9/94,25,"1,99 m",250000,England,NA,81
+Sam McQueen,45,Left-Back,Southampton FC ,2/6/95,24,"1,81 m",1000000,England,1,70
+David Martin,25,Goalkeeper,West Ham United ,1/22/86,33,"1,88 m",250000,England,11,86
+Stephen Henderson,19,Goalkeeper,Crystal Palace ,5/2/88,31,"1,88 m",500000,Republic of Ireland,NA,87
+Bukayo Saka,77,Left Winger,Arsenal FC ,2001/09/05,18,"1,78 m",7000000,England,8,70
+George Thomas,14,Right Winger,Leicester City ,3/24/97,22,"1,73 m",500000,Wales  England,3,76
+Keinan Davis,39,Centre-Forward,Aston Villa ,2/13/98,21,"1,78 m",2000000,England,3,75
+Jordan Graham,24,Left Winger,Wolverhampton Wanderers ,3/5/95,24,"1,82 m",500000,England,11,73
+Andy Lonergan,22,Goalkeeper,Liverpool FC ,10/19/83,36,"1,93 m",250000,England,NA,87
+Phil Ofosu-Ayeh,17,Right-Back,Wolverhampton Wanderers ,9/15/91,28,"1,81 m",300000,Ghana  Germany,1,81
+Aaron Connolly,44,Centre-Forward,Brighton & Hove Albion ,1/28/00,19,"1,75 m",2500000,Ireland,-,77
+Mark Travers,42,Goalkeeper,AFC Bournemouth ,5/18/99,20,"1,91 m",250000,Republic of Ireland,3,82
+Kean Bryan,20,Centre-Back,Sheffield United ,11/1/96,23,"1,85 m",250000,England  Jamaica,-,72
+Adam Legzdins,30,Goalkeeper,Burnley FC ,11/28/86,32,"1,90 m",250000,England  Latvia,NA,90
+Michael Obafemi,20,Centre-Forward,Southampton FC ,7/6/00,19,"1,70 m",2000000,Ireland  Nigeria,1,71
+Harry Burgoyne,13,Goalkeeper,Wolverhampton Wanderers ,12/28/96,22,"1,93 m",200000,England,-,80
+Billy Gilmour,47,Central Midfield,Chelsea FC ,2011/01/06,18,"1,68 m",2500000,Scotland,-,67
+Matthew Longstaff,47,Defensive Midfield,Newcastle United ,3/21/01,19,"1,71 m",5000000,England,,72
+Brandon Williams,53,Left-Back,Manchester United ,9/3/00,19,"1,83 m",10000000,England,-,75
+Jamie Sterry,42,Right-Back,Newcastle United ,11/21/95,23,"1,80 m",75000,England  Italy,NA,76
+Max Kilman,49,Centre-Back,Wolverhampton Wanderers ,5/23/97,22,"1,92 m",4500000,England,NA,80
+Bruno Jordao,6,Central Midfield,Wolverhampton Wanderers ,10/12/98,21,"1,80 m",2500000,Portugal,1,71
+Caoimhin Kelleher,62,Goalkeeper,Liverpool FC ,11/23/98,20,"1,88 m",500000,Ireland,-,69
+Andreas Pereira,15,Attacking Midfield,Manchester United ,1/1/96,23,"1,78 m",15000000,Brazil  Belgium,1,73
+Tom Dele-Bashiru,24,Central Midfield,Watford FC ,9/17/99,20,"1,79 m",150000,Nigeria  England,-,68
+Steven Alzate,46,Attacking Midfield,Brighton & Hove Albion ,9/8/98,21,"1,80 m",6000000,Colombia,4,65
+Michel Vorm,13,Goalkeeper,Tottenham Hotspur ,10/20/83,36,"1,83 m",1000000,Netherlands,15,84
+Andrew Crofts,48,Central Midfield,Brighton & Hove Albion ,5/29/84,35,"1,75 m",350000,Wales  England,29,73
+Ming-Yang Yang,39,Central Midfield,Wolverhampton Wanderers ,7/11/95,24,"1,72 m",250000,Switzerland  China,5,64

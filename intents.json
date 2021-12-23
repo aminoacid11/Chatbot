@@ -21,53 +21,118 @@
         },
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
-         "responses": ["I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies", "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"],
+         "responses": ["I can give you some general informations of English Premier League (EPL) players", "Offering informations for English Premier League (EPL) players"],
          "context": [""]
         },
-        {"tag": "adverse_drug",
-         "patterns": ["How to check Adverse drug reaction?", "Open adverse drugs module", "Give me a list of drugs causing adverse behavior", "List all drugs suitable for patient with adverse reaction", "Which drugs dont have adverse reaction?" ],
-         "responses": ["Navigating to Adverse drug reaction module"],
-         "context": [""]
+        {"tag": "jersey_number",
+         "patterns": ["Can I get the jersey number for a player?", "Get me the jersey number for a player", "Give me the jersey number for a plyer", "Find me the jersey number for a player", "What is the jersey number for this player?" ],
+         "responses": ["Please provide player name", "Player name?"],
+         "context": ["search_jersey_number_by_player_name"]
         },
-        {"tag": "blood_pressure",
-         "patterns": ["Open blood pressure module", "Task related to blood pressure", "Blood pressure data entry", "I want to log blood pressure results", "Blood pressure data management" ],
-         "responses": ["Navigating to Blood Pressure module"],
-         "context": [""]
+        {"tag": "search_jersey_number_by_player_name",
+        "patterns": [],
+        "responses": ["Loading jersey number for the player..."],
+        "context": [""]
         },
-        {"tag": "blood_pressure_search",
-         "patterns": ["I want to search for blood pressure result history", "Blood pressure for patient", "Load patient blood pressure result", "Show blood pressure results for patient", "Find blood pressure results by ID" ],
-         "responses": ["Please provide Patient ID", "Patient ID?"],
-         "context": ["search_blood_pressure_by_patient_id"]
+        {"tag": "club_name",
+         "patterns": ["Open club name for a player", "Give me the club name for a player", "Find me the club name for this player", "I want to find the club name for a player", "Club name for a player" ],
+         "responses": ["Please provide player name", "Player name?"],
+         "context": ["search_club_name_by_player_name"]
         },
-        {"tag": "search_blood_pressure_by_patient_id",
+        {"tag": "search_club_name_by_player_name",
+        "patterns": [],
+        "responses": ["Loading club name for the player..."],
+        "context": [""]
+        },
+        {"tag": "position",
+         "patterns": ["I want to search for specific positions", "Specific positions for players", "Load positions for EPL players", "Show soccer positions for EPL players", "Find soccer positions by name" ],
+         "responses": ["Please provide player name", "Player name?"],
+         "context": ["search_position_by_player_name"]
+        },
+        {"tag": "search_position_by_player_name",
          "patterns": [],
-         "responses": ["Loading Blood pressure result for Patient"],
+         "responses": ["Loading position result for player..."],
          "context": [""]
         },
-        {"tag": "pharmacy_search",
-         "patterns": ["Find me a pharmacy", "Find pharmacy", "List of pharmacies nearby", "Locate pharmacy", "Search pharmacy" ],
-         "responses": ["Please provide pharmacy name"],
-         "context": ["search_pharmacy_by_name"]
+        {"tag": "birth_day",
+         "patterns": ["Find me birth day for a player", "Find birth day", "Get me the birth day for a player", "Load birth day for a player", "Search birth day of a player" ],
+         "responses": ["Please provide player name", "Player name?"],
+         "context": ["search_birth_day_by_player_name"]
         },
-        {"tag": "search_pharmacy_by_name",
+        {"tag": "search_birth_day_by_name",
          "patterns": [],
-         "responses": ["Loading pharmacy details"],
+         "responses": ["Loading birth day for the player..."],
          "context": [""]
         },
-        {"tag": "hospital_search",
-         "patterns": ["Lookup for hospital", "Searching for hospital to transfer patient", "I want to search hospital data", "Hospital lookup for patient", "Looking up hospital details" ],
-         "responses": ["Please provide hospital name or location"],
-         "context": ["search_hospital_by_params"]
+        {"tag": "age",
+         "patterns": ["Lookup the age for a player", "Search for age of a plyer", "I want to find the age of a player", "Find age for a player", "Get me the age of a player" ],
+         "responses": ["Please provide player name", "Player name?"],
+         "context": ["search_age_by_player_name"]
         },
-        {"tag": "search_hospital_by_params",
+        {"tag": "search_age_by_player_name",
          "patterns": [],
-         "responses": ["Please provide hospital type"],
-         "context": ["search_hospital_by_type"]
-        },
-        {"tag": "search_hospital_by_type",
-         "patterns": [],
-         "responses": ["Loading hospital details"],
+         "responses": ["Loading birth day for the player..."],
          "context": [""]
+        },
+        {"tag": "height",
+        "patterns": ["Lookup the height for a player", "Search for the height of a plyer", "I want to find the height of a player", "Find the height for a player", "Get me the height of a player" ],
+        "responses": ["Please provide player name", "Player name?"],
+        "context": ["search_height_by_player_name"]
+        },
+        {"tag": "search_height_by_player_name",
+        "patterns": [],
+        "responses": ["Loading height for the player..."],
+        "context": [""]
+        },
+        {"tag": "market_value",
+        "patterns": ["Lookup the market value for a player", "Search for the market value of a plyer", "I want to find the market value of a player", "Find the market value for a player", "Get me the market value of a player" ],
+        "responses": ["Please provide player name", "Player name?"],
+        "context": ["search_market_value_by_player_name"]
+        },
+        {"tag": "search_market_value_by_player_name",
+        "patterns": [],
+        "responses": ["Loading market value for the player..."],
+        "context": [""]
+        },
+        {"tag": "citizenship",
+        "patterns": ["Lookup the citizenship for a player", "Search for the citizenship of a plyer", "I want to find the citizenship of a player", "Find the citizenship for a player", "Get me the citizenship of a player" ],
+        "responses": ["Please provide player name", "Player name?"],
+        "context": ["search_citizenship_by_player_name"]
+        },
+        {"tag": "search_citizenship_by_player_name",
+        "patterns": [],
+        "responses": ["Loading citizenship for the player..."],
+        "context": [""]
+        },
+        {"tag": "national_team_caps",
+        "patterns": ["Lookup the national team caps for a player", "Search for the national team caps of a plyer", "I want to find the national team caps of a player", "Find the national team caps for a player", "Get me the national team caps of a player" ],
+        "responses": ["Please provide player name", "Player name?"],
+        "context": ["search_national_team_caps_by_player_name"]
+        },
+        {"tag": "search_national_team_caps_by_player_name",
+        "patterns": [],
+        "responses": ["Loading national team caps for the player..."],
+        "context": [""]
+        },
+        {"tag": "world_rank",
+        "patterns": ["Lookup the world rank for a player", "Search for the world rank of a plyer", "I want to find the world rank of a player", "Find the world rank for a player", "Get me the world rank of a player" ],
+        "responses": ["Please provide player name", "Player name?"],
+        "context": ["search_world_rank_by_player_name"]
+        },
+        {"tag": "search_world_rank_by_player_name",
+        "patterns": [],
+        "responses": ["Loading world rank for the player..."],
+        "context": [""]
+        },
+        {"tag": "weight",
+        "patterns": ["Lookup the weight for a player", "Search for the weight of a plyer", "I want to find the weight of a player", "Find the weight for a player", "Get me the weight of a player" ],
+        "responses": ["Please provide player name", "Player name?"],
+        "context": ["search_weight_by_player_name"]
+        },
+        {"tag": "search_weight_by_player_name",
+        "patterns": [],
+        "responses": ["Loading weight for the player..."],
+        "context": [""]
         }
    ]
 }
