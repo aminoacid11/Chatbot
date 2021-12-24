@@ -21,118 +21,58 @@
         },
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
-         "responses": ["I can give you some general informations of English Premier League (EPL) players", "Offering informations for English Premier League (EPL) players"],
+         "responses": ["I can give you some general informations of English Premier League (EPL) players", "I offer numerous informations of English Premier League (EPL) players"],
          "context": [""]
         },
         {"tag": "jersey_number",
          "patterns": ["Can I get the jersey number for a player?", "Get me the jersey number for a player", "Give me the jersey number for a plyer", "Find me the jersey number for a player", "What is the jersey number for this player?" ],
-         "responses": ["Please provide player name", "Player name?"],
+         "responses": ["Sure! Here is the jersey number of your requested player:","Okay! Here is the result:", "Of course! Let me get you the jersey number of this player:"],
          "context": ["search_jersey_number_by_player_name"]
-        },
-        {"tag": "search_jersey_number_by_player_name",
-        "patterns": [],
-        "responses": ["Loading jersey number for the player..."],
-        "context": [""]
         },
         {"tag": "club_name",
          "patterns": ["Open club name for a player", "Give me the club name for a player", "Find me the club name for this player", "I want to find the club name for a player", "Club name for a player" ],
-         "responses": ["Please provide player name", "Player name?"],
+         "responses": ["Sure! Here is the name of the club where your requested player belongs to:","Okay! Here is the result:", "Of course! Let me get you the club name of this player:"],
          "context": ["search_club_name_by_player_name"]
-        },
-        {"tag": "search_club_name_by_player_name",
-        "patterns": [],
-        "responses": ["Loading club name for the player..."],
-        "context": [""]
         },
         {"tag": "position",
          "patterns": ["I want to search for specific positions", "Specific positions for players", "Load positions for EPL players", "Show soccer positions for EPL players", "Find soccer positions by name" ],
-         "responses": ["Please provide player name", "Player name?"],
+         "responses": ["Sure! Here is the specific soccer position of your requested player:","Okay! Here is the result:", "Of course! Let me get you the soccer position for this player:"],
          "context": ["search_position_by_player_name"]
-        },
-        {"tag": "search_position_by_player_name",
-         "patterns": [],
-         "responses": ["Loading position result for player..."],
-         "context": [""]
         },
         {"tag": "birth_day",
          "patterns": ["Find me birth day for a player", "Find birth day", "Get me the birth day for a player", "Load birth day for a player", "Search birth day of a player" ],
-         "responses": ["Please provide player name", "Player name?"],
+         "responses": ["Sure! Here is the birthday of your requested player:","Okay! Here is the result:", "Of course! Let me get you the birthday of this player:"],
          "context": ["search_birth_day_by_player_name"]
         },
-        {"tag": "search_birth_day_by_name",
-         "patterns": [],
-         "responses": ["Loading birth day for the player..."],
-         "context": [""]
-        },
         {"tag": "age",
-         "patterns": ["Lookup the age for a player", "Search for age of a plyer", "I want to find the age of a player", "Find age for a player", "Get me the age of a player" ],
-         "responses": ["Please provide player name", "Player name?"],
+         "patterns": ["Lookup the age for a player", "Search for age of a player", "I want to find the age of a player", "Find age for a player", "Get me the age of a player" ],
+         "responses": ["Sure! Here is the age of your requested player:","Okay! Here is the result:", "Of course! Let me get you the age of this player:"],
          "context": ["search_age_by_player_name"]
         },
-        {"tag": "search_age_by_player_name",
-         "patterns": [],
-         "responses": ["Loading birth day for the player..."],
-         "context": [""]
-        },
         {"tag": "height",
-        "patterns": ["Lookup the height for a player", "Search for the height of a plyer", "I want to find the height of a player", "Find the height for a player", "Get me the height of a player" ],
-        "responses": ["Please provide player name", "Player name?"],
+        "patterns": ["Lookup the height for a player", "Search for the height of a player", "I want to find the height of a player", "Find the height for a player", "Get me the height of a player" ],
+        "responses": ["Sure! Here is the height of your requested player:","Okay! Here is the result:", "Of course! Let me get you the height of this player:"],
         "context": ["search_height_by_player_name"]
         },
-        {"tag": "search_height_by_player_name",
-        "patterns": [],
-        "responses": ["Loading height for the player..."],
-        "context": [""]
-        },
         {"tag": "market_value",
-        "patterns": ["Lookup the market value for a player", "Search for the market value of a plyer", "I want to find the market value of a player", "Find the market value for a player", "Get me the market value of a player" ],
-        "responses": ["Please provide player name", "Player name?"],
+        "patterns": ["Lookup the market value for a player", "Search for the market value of a player", "I want to find the market value of a player", "Find the market value for a player", "Get me the market value of a player" ],
+        "responses": ["Sure! Here is the market value of your requested player:","Okay! Here is the result:", "Of course! Let me get you the market value of this player:"],
         "context": ["search_market_value_by_player_name"]
         },
-        {"tag": "search_market_value_by_player_name",
-        "patterns": [],
-        "responses": ["Loading market value for the player..."],
-        "context": [""]
-        },
         {"tag": "citizenship",
-        "patterns": ["Lookup the citizenship for a player", "Search for the citizenship of a plyer", "I want to find the citizenship of a player", "Find the citizenship for a player", "Get me the citizenship of a player" ],
-        "responses": ["Please provide player name", "Player name?"],
+        "patterns": ["Lookup the citizenship for a player", "Search for the citizenship of a player", "I want to find the citizenship of a player", "Find the citizenship for a player", "Get me the citizenship of a player" ],
+        "responses": ["Sure! Here is the citizenship result of your requested player:","Okay! Here is the result:", "Of course! Let me get you the citizenship information of this player:"],
         "context": ["search_citizenship_by_player_name"]
         },
-        {"tag": "search_citizenship_by_player_name",
-        "patterns": [],
-        "responses": ["Loading citizenship for the player..."],
-        "context": [""]
-        },
         {"tag": "national_team_caps",
-        "patterns": ["Lookup the national team caps for a player", "Search for the national team caps of a plyer", "I want to find the national team caps of a player", "Find the national team caps for a player", "Get me the national team caps of a player" ],
-        "responses": ["Please provide player name", "Player name?"],
+        "patterns": ["Lookup the national team caps for a player", "Search for the national team caps of a player", "I want to find the national team caps of a player", "Find the national team caps for a player", "Get me the national team caps of a player" ],
+        "responses": ["Sure! Here is the national team caps information of your requested player:","Okay! Here is the result:", "Of course! Let me get you the national team caps information of this player:"],
         "context": ["search_national_team_caps_by_player_name"]
         },
-        {"tag": "search_national_team_caps_by_player_name",
-        "patterns": [],
-        "responses": ["Loading national team caps for the player..."],
-        "context": [""]
-        },
-        {"tag": "world_rank",
-        "patterns": ["Lookup the world rank for a player", "Search for the world rank of a plyer", "I want to find the world rank of a player", "Find the world rank for a player", "Get me the world rank of a player" ],
-        "responses": ["Please provide player name", "Player name?"],
-        "context": ["search_world_rank_by_player_name"]
-        },
-        {"tag": "search_world_rank_by_player_name",
-        "patterns": [],
-        "responses": ["Loading world rank for the player..."],
-        "context": [""]
-        },
         {"tag": "weight",
-        "patterns": ["Lookup the weight for a player", "Search for the weight of a plyer", "I want to find the weight of a player", "Find the weight for a player", "Get me the weight of a player" ],
-        "responses": ["Please provide player name", "Player name?"],
+        "patterns": ["Lookup the weight for a player", "Search for the weight of a player", "I want to find the weight of a player", "Find the weight for a player", "Get me the weight of a player" ],
+        "responses": ["Sure! Here is the weight of your requested player:","Okay! Here is the result:", "Of course! Let me get you the weight of this player:"],
         "context": ["search_weight_by_player_name"]
-        },
-        {"tag": "search_weight_by_player_name",
-        "patterns": [],
-        "responses": ["Loading weight for the player..."],
-        "context": [""]
         }
    ]
 }

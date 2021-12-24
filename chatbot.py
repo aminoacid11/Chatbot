@@ -1,11 +1,15 @@
+from re import template
 from tkinter import font
 import nltk
 from nltk import probability
 from nltk.stem import WordNetLemmatizer
+from tensorflow.python.eager.context import context
 from tensorflow.python.tf2 import disable
 lemmatizer = WordNetLemmatizer()
 import pickle
 import numpy as np
+import time
+import EPL
 
 from keras.models import load_model
 model = load_model('chatbot_model.h5')
@@ -39,7 +43,7 @@ def bag_of_words(sentence, words, show_details=True):
 
 def predict_class(sentence):
     # filter below threshold predictions
-    p = bag_of_words(sentence, words, show_details=False)
+    p = bag_of_words(sentence, words, show_details=True)
     res = model.predict(np.array([p]))[0]
     ERROR_THRESHOLD = 0.25
     results = [[i,r] for i,r in enumerate(res) if r>ERROR_THRESHOLD]
@@ -48,6 +52,7 @@ def predict_class(sentence):
     return_list = []
     for r in results:
         return_list.append({"intent":classes[r[0]], "probability": str(r[1])})
+    print("return_list",return_list)
     return return_list
 
 def getResponse(ints, intents_json):
@@ -69,16 +74,54 @@ def send():
 
     if msg != '':
         ChatBox.config(state=NORMAL)
-        ChatBox.insert(END, "You:" + msg + '\n\n')
-        ChatBox.config(foreground="#446665", font=("Verdana", 12))
+        ChatBox.insert(END, "You: " + msg + '\n\n')
+        ChatBox.config(foreground="#000000", font=("Futura", 12))
 
         ints = predict_class(msg)
-        res = getResponse(ints, intents)
-
+        tag_val = ints[0]['intent']
+        response = getResponse(ints, intents)
+        res = response
+        
         ChatBox.insert(END, "Bot: " + res + '\n\n')
-
         ChatBox.config(state=DISABLED)
         ChatBox.yview(END)
+
+        if tag_val == "jersey_number" or tag_val == "club_name" or tag_val == "position" or tag_val == "birth_day" \
+                        or tag_val == "age" or tag_val == "height" or tag_val == "market_value" or tag_val == "citizenship"\
+                        or tag_val == "national_team_caps" or tag_val == "weight":
+            keyword = 'of '
+            before, keyword, pl_name = msg.partition(keyword)
+            if '?' in pl_name:
+                pl_name = pl_name[:-1]
+            if tag_val == "jersey_number":
+                pl_info = EPL.player_info(pl_name,jn=True)
+            elif tag_val == "club_name":
+                pl_info = EPL.player_info(pl_name,cn=True)
+            elif tag_val == "position":
+                pl_info = EPL.player_info(pl_name,sp=True)
+            elif tag_val == "birth_day":
+                pl_info = EPL.player_info(pl_name,bd=True)
+            elif tag_val == "age":
+                pl_info = EPL.player_info(pl_name,age=True)
+            elif tag_val == "height":
+                pl_info = EPL.player_info(pl_name,height=True)
+            elif tag_val == "market_value":
+                pl_info = EPL.player_info(pl_name,mv=True)
+            elif tag_val == "citizenship":
+                pl_info = EPL.player_info(pl_name,citizenship=True)
+            elif tag_val == "national_team_caps":
+                pl_info = EPL.player_info(pl_name,ntc=True)
+            elif tag_val == "weight":
+                pl_info = EPL.player_info(pl_name,weight=True)
+
+            tag_word = tag_val.replace('_',' ')
+            main_info = pl_info[0]
+            resp = pl_info[1] + "'s " + tag_word + " is: " + main_info
+            ChatBox.config(state=NORMAL)
+            ChatBox.insert(END, "Bot: " + resp + '\n\n')
+            ChatBox.config(state=DISABLED)
+            ChatBox.yview(END)
+        
 
 root = Tk()
 root.title("Chatbot")
@@ -95,8 +138,8 @@ scrollbar = Scrollbar(root, command=ChatBox.yview, cursor="heart")
 ChatBox['yscrollcommand'] = scrollbar.set
 
 # Create Button to send message
-SendButton = Button(root, font=("Verdana", 12, 'bold'), text="Send", width=12, height=5, bd=0,
-                    bg='#f9a602', activebackground='#3c9d9b', fg='#000000', command=send)
+SendButton = Button(root, font=("Futura", 12, 'bold'), text="Send", width=12, height=5, bd=0,
+                    bg='#049101', activebackground='#960f00', fg='#000000', command=send)
 
 # Create the box to enter message
 EntryBox = Text(root, bd=0, bg='white', width='29', height='5', font='Arial')
