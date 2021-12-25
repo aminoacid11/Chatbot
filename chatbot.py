@@ -89,10 +89,12 @@ def send():
         if tag_val == "jersey_number" or tag_val == "club_name" or tag_val == "position" or tag_val == "birth_day" \
                         or tag_val == "age" or tag_val == "height" or tag_val == "market_value" or tag_val == "citizenship"\
                         or tag_val == "national_team_caps" or tag_val == "weight":
-            keyword = 'of '
+            keyword = ':'
             before, keyword, pl_name = msg.partition(keyword)
             if '?' in pl_name:
                 pl_name = pl_name[:-1]
+            if ' ' in pl_name:
+                pl_name = pl_name[1:]
             if tag_val == "jersey_number":
                 pl_info = EPL.player_info(pl_name,jn=True)
             elif tag_val == "club_name":
