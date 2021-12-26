@@ -1,6 +1,6 @@
 # EPL Chatbot
-This is a simple Chatbot that provides the users numerous informations of English Premier League (EPL) players.
-There are 10 different informations that this chatbot can offer: 
+This is a simple Chatbot that provides the users numerous informations of English Premier League (EPL) players. <br />
+There are 10 different informations that this chatbot can offer: <br />
 Player's jersey number, club name, position, birthday, age, height, market value (in pounds), citizenship, national team caps, and the weight.
 
 Intents.json file contains informations for the chatbot to learn the expected questions and chats by the users and to expected responses to it, with tags for each category. <br />
@@ -13,6 +13,6 @@ To start the web application, run:
 ### `python chatbot.py` or `python3 chatbot.py`
 
 Important notes:
-When you request for an information to the chatbot, please provide the name of the player at the end of the chat following ":" 
-Make sure to provide correct full name of the player in order to accurate information.
+When you request for an information to the chatbot, please provide the name of the player at the end of the chat following ":" <br />
+Make sure to provide correct full name of the player in order to accurate information. <br />
 (e.g. I want to get the jersey number of : Heung Min Son)
