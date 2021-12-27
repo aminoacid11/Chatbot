@@ -14,5 +14,5 @@ To start the web application, run:
 
 Important notes:
 When you request for an information to the chatbot, please provide the name of the player at the end of the chat following ":" <br />
-Make sure to provide correct full name of the player in order to accurate information. <br />
+Make sure to provide correct full name of the player in order to obtain accurate information. <br />
 (e.g. I want to get the jersey number of : Heung Min Son)
