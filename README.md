@@ -1,7 +1,7 @@
 # EPL Chatbot
 This is a simple Chatbot that provides the users numerous informations of English Premier League (EPL) players. <br />
 There are 10 different informations that this chatbot can offer: <br />
-Player's jersey number, club name, position, birthday, age, height, market value (in pounds), citizenship, national team caps, and the weight.
+Player's jersey number, club name, position, birth day, age, height, market value (in pounds), citizenship, national team caps, and the weight.
 
 Intents.json file contains informations for the chatbot to learn the expected questions and chats by the users and to expected responses to it, with tags for each category. <br />
 epl.csv file is the dataset from Kaggle, which went through data cleaning process by deleting the unecessary informations and filling in the empty informations through some researchs. <br />
