@@ -27,7 +27,7 @@ def clean_up_sentence(sentence):
     return sentence_words
 
 # return bag of words array: 0 or 1 for words that exists in sentence
-def bag_of_words(sentence, words, show_details=True):
+def bag_of_words(sentence, words, show_details=False):
     # tokenizing patterns
     sentence_words = clean_up_sentence(sentence)
     # bag of words - vocabulary matrix
@@ -43,7 +43,7 @@ def bag_of_words(sentence, words, show_details=True):
 
 def predict_class(sentence):
     # filter below threshold predictions
-    p = bag_of_words(sentence, words, show_details=True)
+    p = bag_of_words(sentence, words, show_details=False)
     res = model.predict(np.array([p]))[0]
     ERROR_THRESHOLD = 0.25
     results = [[i,r] for i,r in enumerate(res) if r>ERROR_THRESHOLD]
@@ -52,7 +52,7 @@ def predict_class(sentence):
     return_list = []
     for r in results:
         return_list.append({"intent":classes[r[0]], "probability": str(r[1])})
-    print("return_list",return_list)
+    # print("return_list",return_list)
     return return_list
 
 def getResponse(ints, intents_json):
@@ -127,12 +127,12 @@ def send():
 
 root = Tk()
 root.title("Chatbot")
-root.geometry("400x500")
+root.geometry("450x550")
+root.configure(background="#65737e")
 root.resizable(width=False, height=False)
 
 # Create Chat window
-ChatBox = Text(root, bd=0, bg='white', height='8', width='50', font='Arial')
-
+ChatBox = Text(root, bd=0, bg='#c0c5ce',foreground='white', height='8', width='50', font='Helvetica 18 bold')
 ChatBox.config(state=DISABLED)
 
 # Bind scrollbar to Chat window
@@ -140,17 +140,17 @@ scrollbar = Scrollbar(root, command=ChatBox.yview, cursor="heart")
 ChatBox['yscrollcommand'] = scrollbar.set
 
 # Create Button to send message
-SendButton = Button(root, font=("Futura", 12, 'bold'), text="Send", width=12, height=5, bd=0,
+SendButton = Button(root, font=("Futura", 12, 'bold'), text="Send", width=12, height=5, bd=1,
                     bg='#049101', activebackground='#960f00', fg='#000000', command=send)
 
 # Create the box to enter message
-EntryBox = Text(root, bd=0, bg='white', width='29', height='5', font='Arial')
+EntryBox = Text(root, bd=0, bg='#c0c5ce', width='29', height='5', font='Arial')
 # EntryBox.bind("<Return>", send)
 
 # Place all components on the screen
-scrollbar.place(x=376, y=6, height=386)
-ChatBox.place(x=6, y=6, height=386, width=370)
-EntryBox.place(x=128, y=401, height=90, width=265)
-SendButton.place(x=6, y=401, height=90)
+scrollbar.place(x=410, y=15, height=408)
+ChatBox.place(x=20, y=15, height=408, width=390)
+EntryBox.place(x=150, y=430, height=100, width=277)
+SendButton.place(x=20, y=430, height=100)
 
 root.mainloop()
